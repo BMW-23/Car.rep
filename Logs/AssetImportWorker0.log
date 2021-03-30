@@ -164,3 +164,14 @@ RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
 - Completed reload, in  1.598 seconds
 Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2443 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.5 MB.
+System memory in use after: 120.4 MB.
+
+Unloading 82 unused Assets to reduce memory usage. Loaded Objects now: 2971.
+Total: 7.018000 ms (FindLiveObjects: 0.565000 ms CreateObjectMapping: 0.302300 ms MarkObjects: 2.179000 ms  DeleteObjects: 3.970100 ms)
+
